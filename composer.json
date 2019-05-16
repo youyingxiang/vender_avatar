@@ -1,0 +1,13 @@
+{
+    "name": "youxingxiang/avatar",
+    "description": "laravel l",
+    "type": "master",
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "yxx",
+            "email": "1365831278@qq.com"
+        }
+    ],
+    "require": {}
+}
