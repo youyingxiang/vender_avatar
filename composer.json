@@ -1,5 +1,5 @@
 {
-    "name": "cxp/src/avatar",
+    "name": "cxp/laravel-avatar",
     "description": "this test",
     "type": "library",
     "require": {
