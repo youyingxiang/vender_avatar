@@ -12,5 +12,10 @@
             "email": "1365831278@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Cxp\\Avatar\\": "src/"
+        }
+    },
     "minimum-stability": "stable"
 }
